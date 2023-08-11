@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/views/index.html')
 });
 
-const db_uri = "mongodb+srv://romif:bmx05m33@cluster0.k1h7bvo.mongodb.net/exercice_tracker-db-3?retryWrites=true&w=majority";
+const db_uri = "mongodb+srv://romif:OW69ZleXRZfObhRS@cluster0.k1h7bvo.mongodb.net/exercice_tracker-db-3?retryWrites=true&w=majority";
 
 
 // db setting
